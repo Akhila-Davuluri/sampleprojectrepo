@@ -9,7 +9,7 @@ def reverse(num):
 def isPalindrome(num):
     return num==reverse(num)
 
-print(reverse(1234))
+print(reverse(1235))
 print(ispalindrome(123))
 
 print(reverse(121))
