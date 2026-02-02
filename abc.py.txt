@@ -1,5 +1,13 @@
+<<<<<<< Updated upstream
 story-2:
 ---------
 a=30
 b=2
 c=a+b
+=======
+story-1:
+---------
+a=30
+b=2
+c=a*b
+>>>>>>> Stashed changes
